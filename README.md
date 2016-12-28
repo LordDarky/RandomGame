@@ -6,4 +6,4 @@ folder and put the paths of your games in there.
 ##Please use this format:
 C:\example\example\game1.exe,C:\example1\example\game2.exe
 ##Example:
-E:\SteamLibrary\steamapps\common\Planet Coaster\PlanetCoaster.exe,C:\Users\user\Desktop\Minecraft.exe
+E:\SteamLibrary\steamapps\common\Kerbal Space Program\Launcher.exe,E:\Riot Games\League of Legends\lol.launcher.exe
