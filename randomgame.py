@@ -3,7 +3,7 @@ import random
 import string
 import time
 text_file = open("games.txt", "r")
-games = text_file.read().split(',')
+games = text_file.read().split('\n')
 print ("Loading games")
 for items in games:
     print(items)
