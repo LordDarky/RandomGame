@@ -7,6 +7,8 @@ Now right-click and save as randomgame.py
 After downloading create a games.txt and put it in the same folder as the randomgame.py.
 Now enter the paths of your games like this:
 ##Please use this format:
-C:\example\example\game1.exe,C:\example1\example\game2.exe
+C:\example\example\game1.exe
+C:\example1\example\game2.exe
 ##Example:
-E:\SteamLibrary\steamapps\common\Kerbal Space Program\Launcher.exe,E:\Riot Games\League of Legends\lol.launcher.exe
+E:\SteamLibrary\steamapps\common\Kerbal Space Program\Launcher.exe
+E:\Riot Games\League of Legends\lol.launcher.exe
